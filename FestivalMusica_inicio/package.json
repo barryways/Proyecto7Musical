@@ -1,0 +1,26 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp SAAS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barryways/Proyecto7Musical.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Carlos Daniel Barrientos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barryways/Proyecto7Musical/issues"
+  },
+  "homepage": "https://github.com/barryways/Proyecto7Musical#readme",
+  "devDependencies": {
+    "sass": "^1.52.2"
+  }
+}
